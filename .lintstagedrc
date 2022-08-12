@@ -1,0 +1,4 @@
+{
+  "*": "npm run lint",
+  "{src,apps,libs,test}/**/*.ts": "npm run format"
+}
